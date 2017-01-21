@@ -1,0 +1,90 @@
+{
+  "qualificatifs": {
+    "robes": [
+      "jaune",
+      "rouge",
+      "rubis",
+      "pourpre",
+      "violacé",
+      "violines",
+      "cristalline",
+      "transparente",
+      "or-vert",
+      "citronnée",
+      "dorée",
+      "rouge",
+      "blanc",
+      "opaque",
+      "blanc citronné",
+      "rouge rubis",
+      "noire encre",
+      "lumineuse",
+      "cuivrée",
+      "noire",
+      "rouge violine",
+      "violine",
+      "vert",
+      "grenat",
+      "encre",
+      "paille",
+      "cerise noire",
+      "argentée",
+      "brun",
+      "orangée",
+      "sombre",
+      "limpide",
+      "brillante",
+      "rose"
+    ],
+    "gouts": [
+      "boisé",
+      "mûr",
+      "fumé",
+      "épicé"
+    ],
+    "textures": [
+      "complexe",
+      "fraîche",
+      "sans lourdeurs",
+      "fine",
+      "fondu",
+      "rond",
+      "souple",
+      "onctueux",
+      "puissant",
+      "dense",
+      "tonique",
+      "croquante",
+      "intense"
+    ],
+    "aromes": [
+      "fruits des bois",
+      "fruités",
+      "fruits exotiques",
+      "fruits rouges",
+      "pêche blanche",
+      "pêche jaune",
+      "amandes",
+      "café",
+      "myrte",
+      "fraise",
+      "violette",
+      "prune",
+      "eucalyptus",
+      "laurier",
+      "poivre",
+      "citronnelle",
+      "zeste d’agrumes"
+    ],
+    "sols": [
+      "argilo-calaire"
+    ],
+    "cépages": [
+      "Chardonnay",
+      "pinot noir",
+      "Merlot",
+      "Cabernet Sauvignon",
+      "Cabernet Franc"
+    ]
+  }
+}
