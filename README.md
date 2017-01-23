@@ -1,3 +1,13 @@
+requirements:
+    python 3 
+    pip for python3
+
+install:
+    pip install Flask
+
+usage:
+    python3.4 ws.py
+
 Robe/éclat/reflets/ : 
 *jaune
 *rouge
